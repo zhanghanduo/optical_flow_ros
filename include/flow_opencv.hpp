@@ -1,6 +1,6 @@
 /****************************************************************************
  *
- *   Copyright (c) 2017 PX4 Development Team. All rights reserved.
+ *   Copyright (c) 2018 STE UGV team, Nanyang Technological University. All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions
@@ -32,10 +32,10 @@
  ****************************************************************************/
 
 /*
-*  flow_opencv.hpp
+*  flow_opencv.cpp
 *
-*  Created on: Dec 13, 2016
-*      Author: Christoph
+*  Created on: 		May 07, 2018
+*      Author: 		Zhang Handuo
 */
 
 #pragma once

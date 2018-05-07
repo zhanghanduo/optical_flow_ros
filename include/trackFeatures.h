@@ -31,10 +31,11 @@
  *
  ****************************************************************************/
 /*
- * trackFeatures.h
+ * trackFeatures.cpp
  *
- *  Created on: Mar 9, 2016
- *      Author: nicolas
+ *  Created on: May 6, 2018
+ *  Author:         nicolas
+ *  Modifier:       Zhang Handuo
  */
 
 #ifndef KLT_POINT_HANDLING
